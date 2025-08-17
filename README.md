@@ -1,4 +1,4 @@
-# 🧠 CareerCraft – Your Smart ATS Resume Analyzer!
+# 🧠 CareerCraft –  Smart ATS Resume Optimizer!
 
 **Tired of getting ghosted after submitting your resume?**  
 CareerCraft is an intelligent and sleek **Streamlit** application that helps you analyze and optimize your resume for **Applicant Tracking Systems (ATS)** using **Google’s Gemini API**.
